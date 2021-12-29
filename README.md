@@ -1,0 +1,2 @@
+# React-Plant-App
+This app is currently in development. The final product will allow users to track watering schedules and maintenance for their house plants. Currently, it has a basic template for an application with some functionality. There is currently a camera built into the application that allows users to take pictures of their plants and provide some basic information. The user can then save the plant to the Firebase database.
